@@ -1,2 +1,4 @@
 import streamlit as st
 st.title("Hello Moto")
+
+st.sidebar("Hello")
